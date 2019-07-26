@@ -1,5 +1,5 @@
 # Discrete-CA-for-tumoral-growth-implementation
-Implementation of tumoral growth using a discrete celullar automata, based on Dustin D.Phan work.
+Parallel implementation of tumoral growth using a discrete celullar automata, based on Dustin D.Phan work.
 
 To execute the simulation we just need to:
 
